@@ -9,6 +9,10 @@ This project focuses on the integration of Discretionary Access Control (DAC) an
 •	RBAC: Assigns permissions based on user roles within an organization.
 
 
+Tools:
+-----
+
+Kali Linux
 
 Methodology:
 -----------
